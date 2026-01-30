@@ -18,9 +18,9 @@ Requires-Dist: dask[dataframe]==2023.3.1
 Requires-Dist: einsum==0.3.0
 Requires-Dist: google-auth==2.16.2
 Requires-Dist: immutabledict==2.2.0
-Requires-Dist: jax==0.4.13
-Requires-Dist: jaxlib==0.4.13
-Requires-Dist: matplotlib==3.6.1
+Requires-Dist: jax==0.4.17
+Requires-Dist: jaxlib==0.4.17
+Requires-Dist: matplotlib==3.10.8
 Requires-Dist: numpy==1.23.5
 Requires-Dist: pandas==1.5.3
 Requires-Dist: pillow==9.2.0
