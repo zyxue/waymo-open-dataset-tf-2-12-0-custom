@@ -1,3 +1,5 @@
+Custom wheel of `waymo-open-dataset-tf-2-12-0` so that it can be installed with `uv pip install`. The original version can't be installed due to no longer available packages like jax==0.4.13 and jaxlib==0.4.13
+
 # Install
 
 ```
